@@ -69,4 +69,6 @@ def __repr__(self):
 
 mystack = Stack()
 mystack.push('A')
+mystack.push('B')
+mystack.push('C')
 print(mystack)
